@@ -16,8 +16,8 @@
 			</plugin>
 			<plugin>
 			<groupId>com.lazerycode.jmeter</groupId>
-				<artifactId>jmetermavenplugin</artifactId>
-				<version>1.10</version>
+				<artifactId>jmeter-maven-plugin</artifactId>
+				<version>1.4.1</version>
 				<executions>
 					<execution>
 						<id>jmeter-tests</id>
